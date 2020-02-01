@@ -1,0 +1,1 @@
+aws cloudformation validate-template --template-body file://criarEc2v2.yml --profile u2
